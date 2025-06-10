@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImags</folder>
+	<filename>0005.jpg</filename>
+	<path>E:\ImageProcessing\test2\JPEGImags\0005.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>safe hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>45</ymin>
+			<xmax>194</xmax>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>
